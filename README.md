@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Java Spring Boot Development.**
 
-- 💬 Ask me about **My-self,Java Spring Boot and DBMS**
+- 💬 Ask me about **My-self, Java Spring Boot and DBMS**
 
 - 📫 How to reach me **barunpanthisharma11@gmail.com**
 
-- ⚡ Fun fact **Learning and understandung errors is the right way of coding.**
+- ⚡ Fun fact **Learning and understanding errors is the right way of programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
