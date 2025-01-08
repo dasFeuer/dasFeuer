@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasfeuer&label=Profile%20views&color=0e75b6&style=flat" alt="dasfeuer" /> </p>
 
-- 🔭 I’m currently working on **Blog web app project.**
+- 🔭 I’m currently working on **Spring Boot web app project.**
 
 - 🌱 I’m currently learning **Java Spring Boot and DBMS.**
 
