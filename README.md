@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Spring Boot web app project.**
 
-- 🌱 I’m currently learning **Java Spring Boot and DBMS.**
+- 🌱 I’m currently learning **Java, Spring Boot and DBMS.**
 
-- 👯 I’m looking to collaborate with **someone who makes me better as a developer and a person.**
+- 👯 I’m looking to collaborate with **someone who makes me better as a developer.**
 
 - 🤝 I’m looking for help with **Java and Spring Boot Development.**
 
