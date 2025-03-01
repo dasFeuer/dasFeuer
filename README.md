@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasfeuer&label=Profile%20views&color=0e75b6&style=flat" alt="dasfeuer" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot web app project.**
+- 🔭 I’m currently working on **LibGDX project.**
 
-- 🌱 I’m currently learning **Java, Spring Boot and DBMS.**
+- 🌱 I’m currently learning **Java, LibGDX, Spring Boot and DBMS.**
 
 - 👯 I’m looking to collaborate with **someone who makes me better as a developer.**
 
-- 🤝 I’m looking for help with **Java and Spring Boot Development.**
+- 🤝 I’m looking for help with **Java, LibGDX and Spring Boot Development.**
 
-- 💬 Ask me about **My-self, Java, Spring Boot and DBMS.**
+- 💬 Ask me about **My-self, LibGDX, Java, Spring Boot and DBMS.**
 
 - 📫 How to reach me **barunpanthisharma11@gmail.com**
 
